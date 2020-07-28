@@ -1,0 +1,1 @@
+build.bat D:\git\kaiyohugo\articles D:\git\kaiyohugo\articles.xml
